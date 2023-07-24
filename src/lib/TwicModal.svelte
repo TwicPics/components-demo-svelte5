@@ -40,6 +40,8 @@
     <div class="twic-grid">
       {#each images as image, index}
         <div>
+          <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
+          <!-- svelte-ignore a11y-click-events-have-key-events -->
           <figure class="poster-wrapper twic-item" on:click={() => openModal(index)}>
             <TwicImg src={image.url} focus="auto" ratio="0.95" />
             <figcaption>

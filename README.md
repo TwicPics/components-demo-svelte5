@@ -1,6 +1,6 @@
 # TwicPics Components + Svelte + Vite
 
-This project is a demonstration project of [TwicPics Components](https://www.twicpics.com/docs/components/svelte-3?utm_source=github&utm_medium=organic&utm_campaign=components) using [Svelte3](https://svelte.dev/).
+This project is a demonstration project of [TwicPics Components](https://www.twicpics.com/docs/components/svelte-4?utm_source=github&utm_medium=organic&utm_campaign=components) using [Svelte4](https://svelte.dev/).
 
 ## Recommended IDE Setup
 
@@ -68,7 +68,7 @@ With this:
 <TwicImg src="https://assets.twicpics.com/examples/football.jpg" />
 ```
 
-Thanks to the open source [TwicPics](https://www.twicpics.com/?utm_source=github&utm_medium=organic&utm_campaign=components) Components, delivering responsive images in your [Svelte3](https://svelte.dev/) projects has never been easier.
+Thanks to the open source [TwicPics](https://www.twicpics.com/?utm_source=github&utm_medium=organic&utm_campaign=components) Components, delivering responsive images in your [Svelte4](https://svelte.dev/) projects has never been easier.
 
 ## TwicPics configuration
 
@@ -81,7 +81,7 @@ If you don't already have one, you can easily [create your own TwicPics account 
 
 ### Configuring `@twicpics/components`
 
-TwicPics components for Svelte3 comes as an `ES module`.
+TwicPics components for Svelte4 comes as an `ES module`.
 
 An example of configuration is already set within `main.js` file.
 

@@ -73,6 +73,7 @@
     <div class="twic-grid">
       <div class="twic-item">
         <img
+          alt="bot"
           src="https://demo.twic.pics/https://assets.twicpics.com/demo/@twicpics-components/bot/robot.jpg?twic=v1/cover=400x400"
         />
         <span> Media seen by search engine bots </span>

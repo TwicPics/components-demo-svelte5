@@ -6,6 +6,8 @@
   export let onClose;
 </script>
 
+<!-- svelte-ignore a11y-no-static-element-interactions -->
+<!-- svelte-ignore a11y-click-events-have-key-events -->
 <div class="modal" class:modal-opened={show} on:click={onClose}>
   <div class="modal-content">
     <div class="poster">

@@ -43,6 +43,7 @@
   $: imageReady = state === `error` || state === `done`;
 </script>
 
+<!-- svelte-ignore a11y-no-static-element-interactions -->
 <div class="slideshow" on:mouseenter={setIsPaused} on:mouseleave={setIsPaused}>
   <button
     class="slick-prev slick-arrow"
@@ -70,7 +71,7 @@
     </div>
   </div>
   <ul class="slick-dots">
-    {#each images as img, index}
+    {#each images as _, index}
       <li class:slick-active={index === activeIndex}>
         <button on:click={() => updateIndex(index)} disabled={!imageReady} />
       </li>

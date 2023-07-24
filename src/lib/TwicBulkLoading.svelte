@@ -56,6 +56,8 @@
       </p>
     </TwicAbstract>
     <TwicView>
+      <!-- svelte-ignore a11y-click-events-have-key-events -->
+      <!-- svelte-ignore a11y-no-static-element-interactions -->
       <div class="polaroids" on:click={changeImage}>
         <div class="polaroid bottom" class:left={current % 2 === 0}>
           <TwicImg src={images[penultimate].url} focus="0px100p" />
