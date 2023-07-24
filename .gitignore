@@ -1,0 +1,23 @@
+# Editor directories and files
+.idea
+.DS_Store
+*.njsproj
+*.ntvs*
+*.sln
+*.suo
+*.sw?
+
+# General
+dist
+dist-ssr
+node_modules
+yarn.lock
+
+# Logs
+*.log
+logs
+lerna-debug.log*
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
