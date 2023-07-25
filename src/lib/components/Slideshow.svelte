@@ -1,6 +1,6 @@
 <script>
   import { onMount, onDestroy } from 'svelte';
-  import { TwicImg } from '@twicpics/components/svelte3';
+  import { TwicImg } from '@twicpics/components/svelte4';
 
   export let images;
 

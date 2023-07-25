@@ -1,7 +1,7 @@
 <script>
   import TwicAbstract from './components/demo-wrapper/TwicAbstract.svelte';
   import TwicWrapper from './components/demo-wrapper/TwicWrapper.svelte';
-  import { TwicImg } from '@twicpics/components/svelte3';
+  import { TwicImg } from '@twicpics/components/svelte4';
   import Modal from './components/Modal.svelte';
 
   const images = [
@@ -43,7 +43,7 @@
           <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
           <!-- svelte-ignore a11y-click-events-have-key-events -->
           <figure class="poster-wrapper twic-item" on:click={() => openModal(index)}>
-            <TwicImg src={image.url} focus="auto" ratio="0.95" />
+            <TwicImg src={image.url} focus="auto" ratio="0.95"  />
             <figcaption>
               <p>Click</p>
             </figcaption>

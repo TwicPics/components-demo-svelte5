@@ -2,7 +2,7 @@
   import TwicAbstract from './components/demo-wrapper/TwicAbstract.svelte';
   import TwicWrapper from './components/demo-wrapper/TwicWrapper.svelte';
   import Code from './components/Code.svelte';
-  import { TwicVideo } from '@twicpics/components/svelte3';
+  import { TwicVideo } from '@twicpics/components/svelte4';
 </script>
 
 <div id="twic-short-videos-container">

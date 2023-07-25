@@ -1,5 +1,5 @@
 <script>
-  import { TwicImg } from '@twicpics/components/svelte3';
+  import { TwicImg } from '@twicpics/components/svelte4';
   import TwicAbstract from './components/demo-wrapper/TwicAbstract.svelte';
   import TwicWrapper from './components/demo-wrapper/TwicWrapper.svelte';
   import Code from './components/Code.svelte';

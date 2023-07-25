@@ -1,7 +1,7 @@
 <script>
   import TwicAbstract from './components/demo-wrapper/TwicAbstract.svelte';
   import TwicWrapper from './components/demo-wrapper/TwicWrapper.svelte';
-  import { TwicImg } from '@twicpics/components/svelte3';
+  import { TwicImg } from '@twicpics/components/svelte4';
   import { onDestroy } from 'svelte';
 
   let indice = 0;

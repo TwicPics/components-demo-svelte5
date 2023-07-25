@@ -1,7 +1,7 @@
 import './app.scss';
 import App from './App.svelte';
 
-import { installTwicPics } from '@twicpics/components/svelte3';
+import { installTwicPics } from '@twicpics/components/svelte4';
 import '@twicpics/components/style.css';
 
 installTwicPics({

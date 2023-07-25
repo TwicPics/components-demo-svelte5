@@ -2,7 +2,7 @@
   import TwicAbstract from './components/demo-wrapper/TwicAbstract.svelte';
   import TwicWrapper from './components/demo-wrapper/TwicWrapper.svelte';
   import Code from './components/Code.svelte';
-  import { TwicImg, TwicView } from '@twicpics/components/svelte3';
+  import { TwicImg, TwicView } from '@twicpics/components/svelte4';
 
   let current = 2;
   let last = 1;

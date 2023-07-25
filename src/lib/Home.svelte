@@ -1,6 +1,6 @@
 <script>
   import TwicWrapper from './components/demo-wrapper/TwicWrapper.svelte';
-  import { TwicImg, TwicVideo } from '@twicpics/components/svelte3';
+  import { TwicImg, TwicVideo } from '@twicpics/components/svelte4';
 
   const categories = [
     {

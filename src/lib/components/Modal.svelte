@@ -1,5 +1,5 @@
 <script>
-  import { TwicImg } from '@twicpics/components/svelte3';
+  import { TwicImg } from '@twicpics/components/svelte4';
 
   export let image;
   export let show;
