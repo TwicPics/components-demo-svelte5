@@ -52,7 +52,7 @@
     </TwicAbstract>
     <div class="twic-grid">
       <div class="twic-item">
-        <TwicImg {zoom} src="components/zoom/stamps-on-booklet.jpg" intrinic="2996x4502" />
+        <TwicImg {zoom} src="components/zoom/stamps-on-booklet.jpg" intrinsic="2996x4502" />
         <span>
           <Code>zoom="{zoom}"</Code>
         </span>
