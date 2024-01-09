@@ -7,6 +7,7 @@
   import Bot from './lib/TwicBot.svelte';
   import BulkLoading from './lib/TwicBulkLoading.svelte';
   import ColorBlindness from './lib/TwicColorBlindness.svelte';
+  import CriticalImage from './lib/TwicCriticalImage.svelte';
   import Eager from './lib/TwicEager.svelte';
   import FlipCards from './lib/TwicFlipCards.svelte';
   import Focus from './lib/TwicFocus.svelte';
@@ -38,6 +39,7 @@
   router('/bot', () => (page = Bot));
   router('/bulk-loading', () => (page = BulkLoading));
   router('/color-blindness', () => (page = ColorBlindness));
+  router('/critical-image', () => (page = CriticalImage));
   router('/eager', () => (page = Eager));
   router('/flip-cards', () => (page = FlipCards));
   router('/focus', () => (page = Focus));
