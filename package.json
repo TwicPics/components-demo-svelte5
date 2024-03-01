@@ -1,7 +1,7 @@
 {
-  "name": "components-demo-svelte4",
+  "name": "components-demo-svelte5",
   "author": "TwicPics <hello@twic.pics> (https://www.twicpics.com)",
-  "description": "Demonstration of TwicPics components in a Svelte4 project.",
+  "description": "Demonstration of TwicPics components in a Svelte5 project.",
   "license": "MIT",
   "version": "0.0.1",
   "type": "module",
@@ -14,17 +14,18 @@
     "serve": "vite"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^3.0.1",
-    "@twicpics/components": "0.27.2",
-    "eslint": "8.56.0",
+    "@sveltejs/vite-plugin-svelte": "3.0.2",
+    "@sveltejs/adapter-auto": "3.1.1",
+    "@twicpics/components": "../../components/dist",
+    "eslint": "8.57.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-svelte": "2.35.1",
-    "prettier": "3.2.4",
-    "prettier-plugin-svelte": "^3.1.2",
-    "sass": "1.70.0",
-    "svelte": "^4.2.9",
-    "svelte-preprocess": "5.1.3",
-    "vite": "5.0.12"
+    "prettier": "3.2.5",
+    "prettier-plugin-svelte": "^3.2.2",
+    "sass": "1.71.1",
+    "svelte": "5.0.0-next.69",
+    "svelte-check": "3.6.4",
+    "vite": "5.1.4"
   },
   "dependencies": {
     "page": "1.11.6"

@@ -1,7 +1,7 @@
 <script>
   import TwicAbstract from './components/demo-wrapper/TwicAbstract.svelte';
   import TwicWrapper from './components/demo-wrapper/TwicWrapper.svelte';
-  import { TwicImg } from '@twicpics/components/svelte4';
+  import { TwicImg } from '@twicpics/components/svelte5';
 
   const imgUrl = `components/greece.jpg`;
 </script>

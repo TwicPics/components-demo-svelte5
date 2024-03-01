@@ -2,7 +2,7 @@
   import TwicAbstract from './components/demo-wrapper/TwicAbstract.svelte';
   import TwicWrapper from './components/demo-wrapper/TwicWrapper.svelte';
   import Code from './components/Code.svelte';
-  import { TwicImg } from '@twicpics/components/svelte4';
+  import { TwicImg } from '@twicpics/components/svelte5';
 
   const imgUrl = `components/woman-and-winter.jpg`;
   const ratioValues = [`2.39`, `16/9`, `4/3`, ``, `0.75`];

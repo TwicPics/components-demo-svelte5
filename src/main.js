@@ -1,7 +1,8 @@
 import './app.scss';
 import App from './App.svelte';
+import { mount } from 'svelte';
 
-import { installTwicPics } from '@twicpics/components/svelte4';
+import { installTwicPics } from '@twicpics/components/svelte5';
 import '@twicpics/components/style.css';
 
 installTwicPics({
@@ -9,8 +10,8 @@ installTwicPics({
   domain: `https://demo.twic.pics`
 });
 
-const app = new App({
-  target: document.getElementById('app')
-});
+const app = mount( App, {
+  "target": document.body,
+} );
 
 export default app;

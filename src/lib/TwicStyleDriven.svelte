@@ -2,7 +2,7 @@
   import TwicAbstract from './components/demo-wrapper/TwicAbstract.svelte';
   import TwicWrapper from './components/demo-wrapper/TwicWrapper.svelte';
   import Code from './components/Code.svelte';
-  import { TwicImg } from '@twicpics/components/svelte4';
+  import { TwicImg } from '@twicpics/components/svelte5';
 
   const imgUrl = `components/horse.jpg`;
 </script>
@@ -12,7 +12,7 @@
     <TwicAbstract title="CSS style driven">
       <p>
         You can set up the TwicPics components using pure CSS and the power of <a
-          href="https://www.twicpics.com/docs/components/sveltekit#css-variables"
+          href="https://www.twicpics.com/docs/components/svelte5#css-variables"
           target="_blank"
           rel="noreferrer">CSS variable</a
         >.

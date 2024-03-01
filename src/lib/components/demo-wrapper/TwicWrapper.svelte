@@ -4,7 +4,7 @@
 
   export let filename = undefined;
 
-  const GITHUB_REPO_NAME = `TwicPics/components-demo-svelte4`;
+  const GITHUB_REPO_NAME = `TwicPics/components-demo-svelte5`;
   const GITHUB = `https://github.com/${GITHUB_REPO_NAME}`;
 
   const documentationUrl = `https://www.twicpics.com/docs/components/svelte-4?utm_source=github&utm_medium=organic&utm_campaign=components`;

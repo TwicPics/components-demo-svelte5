@@ -1,7 +1,7 @@
 <script>
   import TwicAbstract from './components/demo-wrapper/TwicAbstract.svelte';
   import TwicWrapper from './components/demo-wrapper/TwicWrapper.svelte';
-  import { TwicPicture } from '@twicpics/components/svelte3';
+  import { TwicPicture } from '@twicpics/components/svelte5';
   import Code from './components/Code.svelte';
 
 </script>
