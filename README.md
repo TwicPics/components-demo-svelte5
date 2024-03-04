@@ -1,6 +1,6 @@
 # TwicPics Components + Svelte + Vite
 
-This project is a demonstration project of [TwicPics Components](https://www.twicpics.com/docs/components/svelte-4?utm_source=github&utm_medium=organic&utm_campaign=components) using [Svelte5](https://svelte.dev/).
+This project is a demonstration project of [TwicPics Components](https://www.twicpics.com/docs/components/svelte-5?utm_source=github&utm_medium=organic&utm_campaign=components) using [Svelte5](https://svelte.dev/).
 
 ## Recommended IDE Setup
 
