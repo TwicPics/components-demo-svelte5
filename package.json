@@ -14,18 +14,18 @@
     "serve": "vite"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "3.0.2",
     "@sveltejs/adapter-auto": "3.1.1",
-    "@twicpics/components": "0.28.0",
+    "@sveltejs/vite-plugin-svelte": "3.0.2",
+    "@twicpics/components": "0.28.1",
     "eslint": "8.57.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-svelte": "2.35.1",
     "prettier": "3.2.5",
     "prettier-plugin-svelte": "^3.2.2",
-    "sass": "1.71.1",
+    "sass": "1.72.0",
     "svelte": "5.0.0-next.79",
-    "svelte-check": "3.6.4",
-    "vite": "5.1.4"
+    "svelte-check": "3.6.8",
+    "vite": "5.2.6"
   },
   "dependencies": {
     "page": "1.11.6"
