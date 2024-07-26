@@ -16,7 +16,7 @@
   "devDependencies": {
     "@sveltejs/adapter-auto": "3.2.2",
     "@sveltejs/vite-plugin-svelte": "3.1.1",
-    "@twicpics/components": "0.29.3",
+    "@twicpics/components": "0.30.0",
     "eslint": "9.5.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-svelte": "2.40.0",
